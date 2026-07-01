@@ -36,6 +36,7 @@ export {
   DropdownMenuTrigger,
 } from "./Dropdown";
 export { FormField } from "./FormField";
+export { OptimizedImage } from "./Image";
 export { Input } from "./Input";
 export { Label } from "./Label";
 export { Modal } from "./Modal";

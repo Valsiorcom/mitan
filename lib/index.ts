@@ -5,3 +5,4 @@ export { truncateString, validateEmail, validatePhoneNumber, validateUrl } from 
 export { ANIMATION_DURATION, BREAKPOINTS, Z_INDEX, CACHE_CONFIG, IMAGE_SIZES } from "./constants";
 export { usePerformanceMonitoring, reportWebVitals } from "./performance";
 export { createDynamicComponent, DynamicDialog, DynamicModal, DynamicTooltip } from "./dynamic";
+export { focusUtils, ariaUtils, isWCAGAAContrast, generateFieldId } from "./accessibility";
